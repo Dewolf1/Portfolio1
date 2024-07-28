@@ -49,5 +49,3 @@ def contact():
 def service():
     return render_template("service-details.html")
 
-
-app.run(debug=True)
