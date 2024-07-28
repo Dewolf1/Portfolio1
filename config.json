@@ -1,0 +1,11 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_url": "mysql://root:@localhost/hnc",
+    "prod_url": "mysql://root:@localhost/hnc",
+    "gmail-user": "codewithdewolf@gmail.com",
+    "gmail-password": "fzjy nzqc rnyx isxt",
+    "no_of_post": 2
+  }
+}
